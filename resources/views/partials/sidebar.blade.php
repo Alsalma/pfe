@@ -31,6 +31,10 @@
 
                 <li><a href="ajaxdata"><span>Societe Transport</span></a></li>
             </ul>
+            <ul class="treeview-menu">
+
+                <li><a href="index"><span>Municipalite</span></a></li>
+            </ul>
           <li class="nav-item">
             <a href="" class="nav-link
               @if($segment=='categories')

@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc11cdb8-f65a-48fb-809e-74440fd797e2" name="Default Changelist" comment="" />
+    <list default="true" id="cc11cdb8-f65a-48fb-809e-74440fd797e2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/auto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/auto.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/partials/sidebar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/partials/sidebar.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,14 @@
     </execution>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/auto" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\xampp1\htdocs\auto\.idea" />
+      </set>
+    </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -106,7 +119,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1Ym6Belo2q7NpkroOVsw4PabU9Y" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -114,6 +129,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -139,17 +155,50 @@
       <workItem from="1583666570009" duration="149000" />
       <workItem from="1583667472589" duration="313000" />
       <workItem from="1583668267666" duration="619000" />
-      <workItem from="1583669746557" duration="3440000" />
+      <workItem from="1583669746557" duration="5336000" />
+      <workItem from="1583746601520" duration="470000" />
+      <workItem from="1583747095103" duration="4486000" />
+      <workItem from="1583752002161" duration="1339000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="342" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1583669794615">
+    <state x="412" y="122" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1583747691661">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="342" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1583669794615" />
+    <state x="412" y="122" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738@0.0.1366.738" timestamp="1583747691661" />
+    <state x="326" y="7" key="#phpunit.xml" timestamp="1583749129023">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="326" y="7" key="#phpunit.xml/0.0.1366.738@0.0.1366.738" timestamp="1583749129023" />
+    <state x="268" y="0" key="CommitChangelistDialog2" timestamp="1583753516382">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="268" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1583753516382" />
+    <state x="462" y="122" key="FileChooserDialogImpl" timestamp="1583747088541">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="462" y="122" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1583747088541" />
+    <state x="342" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1583752001088">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="342" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1583752001088" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/home.blade.php</url>
+          <line>983</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

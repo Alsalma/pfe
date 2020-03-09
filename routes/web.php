@@ -25,3 +25,13 @@ Route::post('ajaxdata/postdata', 'SocieteController@postdata')->name('ajaxdata.p
 Route::get('ajaxdata/fetchdata', 'SocieteController@fetchdata')->name('ajaxdata.fetchdata');
 Route::get('ajaxdata/removedata', 'SocieteController@removedata')->name('ajaxdata.removedata');
 Route::get('ajaxdata/massremove', 'SocieteController@massremove')->name('ajaxdata.massremove');
+
+
+
+Route::get('index', 'MunicipaliteController@index')->name('index');
+Route::get('index/getdata', 'MunicipaliteController@getdata')->name('index.getdata');
+
+Route::post('index/postdata', 'MunicipaliteController@postdata')->name('index.postdata');
+Route::get('index/fetchdata', 'MunicipaliteController@fetchdata')->name('index.fetchdata');
+Route::get('index/removedata', 'MunicipaliteController@removedata')->name('index.removedata');
+Route::get('index/massremove', 'MunicipaliteController@massremove')->name('index.massremove');
